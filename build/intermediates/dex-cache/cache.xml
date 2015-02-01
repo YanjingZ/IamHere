@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/pre-dexed/debug/classes-b05f24d90d9446968898fa059500056a2c46a9e9.jar"
+        jar="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+    <item
+        dex="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-0116384712c6aa82057a664c2a3a417de48f30d7.jar"
+        jar="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/pre-dexed/debug/classes-7282ffbffb677ea835196bc24e8ae809916223d4.jar"
+        jar="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/pre-dexed/debug/classes-b05f24d90d9446968898fa059500056a2c46a9e9.jar"
+        jar="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+    <item
+        dex="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/pre-dexed/debug/classes-7282ffbffb677ea835196bc24e8ae809916223d4.jar"
+        jar="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-0116384712c6aa82057a664c2a3a417de48f30d7.jar"
+        jar="/Users/Yanjing/AndroidStudioProjects/Iamhere/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>

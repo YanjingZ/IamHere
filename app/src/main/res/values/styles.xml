@@ -1,0 +1,30 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar"></style>
+    <style name="AppThemeDark" parent="android:Theme.Black"></style>
+
+        <!-- Customize your theme here. -->
+
+    <style name="CustomButtonCT">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:background">@drawable/states</item>
+    </style>
+    <style name="CustomButtonHere">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:background">@drawable/states_blackbtn</item>
+    </style>
+    <style name="Transparent">
+    　　
+    　　<item name="android:windowBackground">@color/transparent</item>
+    　　
+    　　<item name="android:windowIsTranslucent">true</item>
+    　　    　　
+    　　</style>
+    </resources>
